@@ -1,0 +1,6 @@
+.idea/
+.byebug_history
+tmp/generated_certificates/checksum
+tmp/generated_certificates/ca.crt
+log
+certificates/*
